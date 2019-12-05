@@ -59,15 +59,16 @@
     ]
   },
 
-  "product-images":{
+  "product-brand":{
     "props":{
-      "height": 30
+      "height": 30,
+      "displayMode": "logo"
     }
   },
 
   "sku-selector":{
     "props":{
-      "InitialSelection": "",
+      "initialSelection": "empty",
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
