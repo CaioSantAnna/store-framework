@@ -1,13 +1,16 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text"
+      "rich-text",
+      "info-card"
     ]
   },
   "rich-text": {
     "props": {
-      "text": "\n**Hello World!**\n",// * antes e depois do texto deixa ele em itálico
+      "text": "\n**Hello World!**\n",
+      // * antes e depois do texto deixa ele em itálico
+      // \n**  **\n deixa o texto em negrito
       "textPosition": "RIGHT"
-    } 
+    }
   }
 }
