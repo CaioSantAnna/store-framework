@@ -42,8 +42,8 @@
       "iframe": {
         "props": {
           "src": "https://www.instagram.com/p/B37Zfd6FobU",
-          "width": 100,
-          "heigth": 200 
+          "width": 800,
+          "heigth": 1000 
         }
       },
 
