@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   
@@ -21,6 +22,8 @@
       "textPosition": "center"
     }
   },
+
+  
   "flex-layout.col": 
   {
     "children": [
