@@ -6,8 +6,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello World !*",// * antes e depois do texto deixa ele em itálico
-      "textPosition": "LEFT"
+      "text": "\n**Hello World!**\n",// * antes e depois do texto deixa ele em itálico
+      "textPosition": "RIGHT"
     } 
   }
 }
