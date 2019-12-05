@@ -1,7 +1,13 @@
 {
   "store.home": { 
     "blocks": [
-      
+      "rich-text"
     ]
+  },
+  "rich-text": {
+    "props": {
+      "text": "\n*Hello World !*\n",// * antes e depois do texto deixa ele em itálico
+      "textPosition": "RIGHT"
+    } 
   }
 }
